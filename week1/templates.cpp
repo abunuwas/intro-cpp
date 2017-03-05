@@ -10,14 +10,6 @@ T sum(T array[], int size) {
 	return total;
 }
 
-//int sum(int array[], int size) {
-//	int total = 0;
-//	for(int count = 0; count < size; ++count){
-//		total += array[count];
-//	}
-//	return total;
-//}
-
 
 int main(void) {
 	int array[] = { 1, 2, 3, 4 };
